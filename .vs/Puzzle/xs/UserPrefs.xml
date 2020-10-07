@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D8509C6B-26F4-48A7-9AC8-B3DF3A769BC2}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/clopez/projects/dot_net/Puzzle/Game.cs" relfile="Game.cs" line="210" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="clopez" Email="caitlin@satellitedna.org" Copyright="" Company="satellitedna.org" Trademark="" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Puzzle PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
